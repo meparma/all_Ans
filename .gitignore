@@ -1,0 +1,1 @@
+return type of FindViewById is an object of View class.so we have to change the object type acc to the need.
